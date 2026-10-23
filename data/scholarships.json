@@ -1,0 +1,470 @@
+[
+  {
+    "id": "hec-need-based-scholarship",
+    "name": "HEC Need Based Scholarships",
+    "provider": "Higher Education Commission (HEC), Pakistan",
+    "kind": "need_based",
+    "funding": "full",
+    "benefits": "tuition fee and monthly stipend",
+    "level": [
+      "undergraduate",
+      "masters"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Pakistani citizen",
+      "enrolled in participating public sector Universities/Institutions"
+    ],
+    "documents": [
+      "CNIC & B-Form",
+      "Father/Guardian Income Certificate",
+      "Last 3 Months Utility Bills",
+      "Academic Marksheets (Matric & Intermediate)"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/default.aspx",
+    "source_url": "https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/default.aspx",
+    "evidence": "Scholarships have been announced for financially disadvantaged students at participating public sector Universities/Institutions and their campuses which are receiving annual recurring grant through Higher Education Commission, Islamabad.",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "hec-national-scholarships",
+    "name": "Faculty Development Programme for Pakistani Universities",
+    "provider": "Higher Education Commission (HEC)",
+    "kind": "merit_based",
+    "funding": "unknown",
+    "benefits": null,
+    "level": [
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Pakistani citizen",
+      "Faculty member at a Pakistani university"
+    ],
+    "documents": [
+      "CNIC",
+      "Domicile Certificate",
+      "Academic Transcripts"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.hec.gov.pk/english/scholarshipsgrants/Pages/default.aspx",
+    "source_url": "https://www.hec.gov.pk/english/scholarshipsgrants/Pages/default.aspx",
+    "evidence": "Note: The page lists multiple scholarships; I have extracted the first main one listed: 'Faculty Development Programme for Pakistani Universities'.",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "bisp-ehsaas-education-support",
+    "name": "Benazir Taleemi Wazaif",
+    "provider": "Benazir Income Support Programme (BISP)",
+    "kind": "need_based",
+    "funding": "unknown",
+    "benefits": null,
+    "level": [
+      "intermediate",
+      "undergraduate"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Must be a BISP beneficiary"
+    ],
+    "documents": [
+      "CNIC / B-Form",
+      "Parent/Guardian CNIC",
+      "Family Income Proof",
+      "Admission / Enrollment Verification"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.bisp.gov.pk",
+    "source_url": "https://www.bisp.gov.pk",
+    "evidence": "Note: The page lists Benazir Taleemi Wazaif as a program, but provides no specific application details, deadlines, or eligibility criteria in the text.",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "dalda-foundation-scholarship",
+    "name": "Dalda Foundation Trust Scholarship",
+    "provider": "Dalda Foundation Trust (DFT)",
+    "kind": "need_based",
+    "funding": "unknown",
+    "benefits": null,
+    "level": [
+      "intermediate",
+      "undergraduate",
+      "masters",
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "economic challenges"
+    ],
+    "documents": [
+      "B-Form or CNIC",
+      "Matric / Intermediate Board Marksheet",
+      "Guardian CNIC & Income Proof",
+      "College/University Bonafide Letter"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.daldafoundation.pk",
+    "source_url": "https://www.daldafoundation.pk",
+    "evidence": "It is an annual process beginning from 15th July to 30th October.",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "sindh-endowment-fund-seef",
+    "name": "Sindh Educational Endowment Fund (SEEF) Scholarship",
+    "provider": "College Education Department, Government of Sindh",
+    "kind": "need_based",
+    "funding": "unknown",
+    "benefits": null,
+    "level": [
+      "undergraduate",
+      "masters"
+    ],
+    "provinces": [
+      "Sindh"
+    ],
+    "fields": [
+      "information technology",
+      "engineering",
+      "medical",
+      "business administration"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "enrolled in a public or private sector university",
+      "resident of Sindh"
+    ],
+    "documents": [
+      "CNIC",
+      "Sindh Domicile & PRC (Form-C)",
+      "Income Certificate / Zakat Declaration (if applicable)",
+      "University Bonafide & Fee Voucher"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://seef.sindh.gov.pk",
+    "source_url": "https://seef.sindh.gov.pk",
+    "evidence": "Sindh Educational Endowment Fund Scholarship – The last date to submit applications is 31st July 2025 (Note: The page lists multiple historical deadlines (2023, 2025). The most recent specific deadline mentioned for a general application was 2025-07-31, which has passed.)",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "sef-sindh-programmes",
+    "name": "SSESP Scholarships for Class VIII",
+    "provider": "Sindh Education Foundation (SEF)",
+    "kind": "merit_based",
+    "funding": "unknown",
+    "benefits": null,
+    "level": [
+      "intermediate"
+    ],
+    "provinces": [
+      "Sindh"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Enrolled in Class VIII"
+    ],
+    "documents": [
+      "B-Form / CNIC",
+      "Sindh Domicile",
+      "Academic Result Card"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": "2026-02-25",
+    "deadline_confirmed": true,
+    "apply_url": "https://www.sef.org.pk",
+    "source_url": "https://www.sef.org.pk",
+    "evidence": "SSESP Scholarships for Class VIII - Last Date to Apply: 25 February 2026 (Note: Extracted the first main scholarship mentioned in the announcements section.)",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "pbm-education-stipend",
+    "name": "Pakistan Bait-ul-Mal Education Stipend",
+    "provider": "Pakistan Bait-ul-Mal",
+    "kind": "need_based",
+    "funding": "partial",
+    "benefits": "Education stipend provided to Deserving Student",
+    "level": [
+      "intermediate",
+      "undergraduate",
+      "masters",
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Deserving student"
+    ],
+    "documents": [
+      "CNIC",
+      "Bonafide Certificate from Head of Institution",
+      "Fee Challan / Receipt",
+      "Previous Semester/Year Result Card"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.pbm.gov.pk",
+    "source_url": "https://www.pbm.gov.pk",
+    "evidence": "Education stipend provided to Deserving Student (Note: The page lists multiple assistance programs; I extracted the 'Education Stipend' as requested.)",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "my-university-need-aid",
+    "name": "My University Need-Based Financial Aid (Placeholder)",
+    "provider": "My University — Financial Aid Office (Replace with your university)",
+    "kind": "need_based",
+    "funding": "partial",
+    "benefits": null,
+    "level": [
+      "undergraduate",
+      "masters"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Enrolled student at the university",
+      "Verify deadline and form at your campus Financial Aid Office"
+    ],
+    "documents": [
+      "University ID Card & CNIC",
+      "Parent Income Certificate",
+      "Utility Bills & House Rent Agreement (if applicable)",
+      "Latest Semester Transcript"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": null,
+    "source_url": "https://www.hec.gov.pk",
+    "evidence": null,
+    "last_verified": null,
+    "fetched_by": "manual"
+  },
+  {
+    "id": "fulbright-pakistan-usefp",
+    "name": "2027 Fulbright Scholar Program",
+    "provider": "United States Educational Foundation in Pakistan (USEFP)",
+    "kind": "study_abroad",
+    "funding": "full",
+    "benefits": "tuition, maintenance, insurance, and airfare",
+    "level": [
+      "masters",
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Pakistani citizen",
+      "residing in Pakistan"
+    ],
+    "documents": [
+      "academic transcripts",
+      "GRE scores",
+      "TOEFL scores",
+      "recommendation letters",
+      "statement of purpose"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.usefp.org",
+    "source_url": "https://www.usefp.org",
+    "evidence": "2027 Fulbright Scholar Program Apply Now (Note: Extracted the 2027 Fulbright Scholar Program as it is the primary scholarship listed on the page.)",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  },
+  {
+    "id": "daad-pakistan-scholarships",
+    "name": "DAAD Postgraduate Scholarships for Pakistani Students (EPOS)",
+    "provider": "German Academic Exchange Service (DAAD Pakistan)",
+    "kind": "study_abroad",
+    "funding": "full",
+    "benefits": null,
+    "level": [
+      "masters",
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Bachelor's degree (typically 16 years of education)",
+      "Relevant professional experience required for EPOS programmes"
+    ],
+    "documents": [
+      "EUROPASS CV",
+      "Letter of Motivation",
+      "University Degree & Transcripts",
+      "Employment Experience Certificates",
+      "Language Proof (IELTS/TOEFL or German)"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "source_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "evidence": null,
+    "last_verified": null,
+    "fetched_by": "manual"
+  },
+  {
+    "id": "chevening-uk-pakistan",
+    "name": "UK Government Chevening Master's Scholarships",
+    "provider": "UK Foreign, Commonwealth & Development Office (Chevening)",
+    "kind": "study_abroad",
+    "funding": "full",
+    "benefits": null,
+    "level": [
+      "masters"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "Citizen of Pakistan",
+      "Undergraduate degree completed",
+      "Minimum required work experience as specified on Chevening portal"
+    ],
+    "documents": [
+      "Valid Passport / CNIC",
+      "University Transcripts & Degree Certificate",
+      "Three Unconditional UK University Course Choices",
+      "Two Reference Letters"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://www.chevening.org/scholarships/",
+    "source_url": "https://www.chevening.org/scholarships/",
+    "evidence": null,
+    "last_verified": null,
+    "fetched_by": "manual"
+  },
+  {
+    "id": "turkiye-burslari-scholarship",
+    "name": "Türkiye Scholarships",
+    "provider": "Türkiye Scholarships (YTB)",
+    "kind": "merit_based",
+    "funding": "full",
+    "benefits": "tuition + monthly stipend + university placement",
+    "level": [
+      "undergraduate",
+      "masters",
+      "phd"
+    ],
+    "provinces": [
+      "all"
+    ],
+    "fields": [
+      "all"
+    ],
+    "max_family_income_pkr": null,
+    "min_percentage": null,
+    "min_cgpa": null,
+    "other_conditions": [
+      "competitive",
+      "merit-based",
+      "academic excellence"
+    ],
+    "documents": [
+      "online application"
+    ],
+    "open_date_iso": null,
+    "deadline_iso": null,
+    "deadline_confirmed": false,
+    "apply_url": "https://turkiyeburslari.gov.tr/en",
+    "source_url": "https://turkiyeburslari.gov.tr/en",
+    "evidence": "The scholarship program is competitive and merit-based, with a strong emphasis on candidates’ academic excellence (Note: The page lists multiple programs; this extraction focuses on the main Türkiye Scholarships program.)",
+    "last_verified": "2026-10-23",
+    "fetched_by": "ai_extraction"
+  }
+]

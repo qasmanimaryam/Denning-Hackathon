@@ -1,0 +1,26 @@
+# Environment variables and secrets (NEVER commit API keys)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
