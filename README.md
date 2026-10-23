@@ -1,4 +1,4 @@
-# 🎓 ScholarMatch (وظیفہ ساتھی)
+# 🎓 ScholarMatch 
 
 > **DITE Hackathon 2026–27** | **Theme:** Education  
 > **Team Name:** Vectors  
@@ -10,7 +10,7 @@
 
 ## 1. Problem Statement
 
-Thousands of low-income and first-generation students across Sindh and Pakistan miss out on life-changing scholarships every year because announcements are scattered across dozens of government, HEC, foundation, and international portals, written in complex bureaucratic English, or circulated on WhatsApp with missing deadlines. **Wazifa Saathi** solves this by letting a student enter their profile (or snap a photo of their marksheet) on any mobile phone to instantly see which scholarships are **open right now**, why they qualify in simple English or Urdu (نستعلیق), what documents to prepare, and how to draft a sincere application—without ever paying an agent.
+Thousands of low-income and first-generation students across Sindh and Pakistan miss out on life-changing scholarships every year because announcements are scattered across dozens of government, HEC, foundation, and international portals, written in complex bureaucratic English, or circulated on WhatsApp with missing deadlines.  solves this by letting a student enter their profile (or snap a photo of their marksheet) on any mobile phone to instantly see which scholarships are **open right now**, why they qualify in simple English or Urdu (نستعلیق), what documents to prepare, and how to draft a sincere application—without ever paying an agent.
 
 ---
 
