@@ -1,8 +1,8 @@
-# 🎓 Wazifa Saathi (وظیفہ ساتھی)
+# 🎓 ScholarMatch (وظیفہ ساتھی)
 
 > **DITE Hackathon 2026–27** | **Theme:** Education  
-> **Team Name:** `[Your Team Name Here]`  
-> **Team Members:** `[Member 1 Name]`, `[Member 2 Name]`, `[Member 3 Name]`  
+> **Team Name:** Vectors  
+> **Team Members:** `Alishba`, `Maryam`, `Laraib`  
 > **Live App URL:** `[Paste Hugging Face Spaces / Streamlit Cloud URL Here]`  
 > **Demo Video (4 min):** `[Paste YouTube / Loom / Google Drive Video Link Here]`
 
